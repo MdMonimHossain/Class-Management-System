@@ -2,8 +2,7 @@
 Class management system is a desktop application by which a teacher can monitor his students easily. Here, a teacher can give attendance and marks to his students and at the same time, students can access those.
 
 ## Software Tools:
-
-- Language - Java (JDK 1.8.0)
+- Language – Java (JDK 1.8.0)
 - GUI – JavaFX
 - JavaFX Scene Builder – 8.5.0
 - IDE – Apache NetBeans 12.0

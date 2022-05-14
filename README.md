@@ -19,3 +19,10 @@
 ### Screenshots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=1fzYMS8D-vT9qaSsv6fTrprl7m3AEjO7j)
 ![screenshot2](https://drive.google.com/uc?export=view&id=1ZBnAqbyotcqN5bVj52DwADlHuX9uuGRV)
+
+For a student:
+![screenshot1](https://drive.google.com/uc?export=view&id=1eM0DxE6ihV0p_YzTCnKwh29KjiO74vWf)
+![screenshot2](https://drive.google.com/uc?export=view&id=15xKYGGiwUtj6tKJEDh4j7BVHm0pwhqAp)
+![screenshot3](https://drive.google.com/uc?export=view&id=1w19SthCkb7noIwEv1ozbpOLyHQHOJRGZ)
+![screenshot4](https://drive.google.com/uc?export=view&id=19RO2a34moGEB3UsgNNPYZalf6BkvOuFU)
+![screenshot5](https://drive.google.com/uc?export=view&id=1OjrdL9xpSNTElnCGsQGCUAlVz8zBaLar)

@@ -4,9 +4,9 @@
 ### Software Tools:
 - Language – Java (JDK 1.8.0)
 - GUI – JavaFX
-- JavaFX Scene Builder – 8.5.0
-- IDE – Apache NetBeans 12.0
 - Database – MySQL
+- IDE – Apache NetBeans 12.0
+- JavaFX Scene Builder – 8.5.0
 - XAMPP Control Panel
 - Libraries:
   - Jfoenix.jar

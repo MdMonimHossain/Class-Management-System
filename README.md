@@ -26,3 +26,11 @@ For a student:
 ![screenshot3](https://drive.google.com/uc?export=view&id=1w19SthCkb7noIwEv1ozbpOLyHQHOJRGZ)
 ![screenshot4](https://drive.google.com/uc?export=view&id=19RO2a34moGEB3UsgNNPYZalf6BkvOuFU)
 ![screenshot5](https://drive.google.com/uc?export=view&id=1OjrdL9xpSNTElnCGsQGCUAlVz8zBaLar)
+
+For a teacher:
+![screenshot1](https://drive.google.com/uc?export=view&id=1KDUgxlClcgdfw_r0Q24UvX-f_5b6aPfz)
+![screenshot2](https://drive.google.com/uc?export=view&id=15J0h1hOCh4A-LCRVB_LoSoezZeyKyjuk)
+![screenshot3](https://drive.google.com/uc?export=view&id=13jFQlk-QBgXh2Rd9sMfpxEipKcl78Fw6)
+![screenshot4](https://drive.google.com/uc?export=view&id=1LgSFx527yV0BxdAVYwABdGY4Oho74nHJ)
+![screenshot5](https://drive.google.com/uc?export=view&id=1tfgm_uw0eqHKKY_WG398W0luCqAUO_AE)
+![screenshot6](https://drive.google.com/uc?export=view&id=1hqj82KEzwSmTFfBuVXuUx0Df9G4WWEjR)

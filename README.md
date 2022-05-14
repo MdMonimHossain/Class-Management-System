@@ -14,6 +14,6 @@
   - MySQL-connector-java-8.0.23.jar
   - org-apache-commons-codec.jar
 
-### ScreenShots:
+### Screenshots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=1fzYMS8D-vT9qaSsv6fTrprl7m3AEjO7j)
 ![screenshot2](https://drive.google.com/uc?export=view&id=1ZBnAqbyotcqN5bVj52DwADlHuX9uuGRV)

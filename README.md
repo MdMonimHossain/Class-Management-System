@@ -1,7 +1,7 @@
 # JavaFX-Project-Classroom-Management-System
 ## Class management system is a desktop application by which teachers can monitor their students easily. Here, a teacher can give attendance and marks to his students and at the same time, students can access those.
 
-###IDE: Apache NetBeans 12.0
+### IDE: Apache NetBeans 12.0
 ### Software Tools:
 - Language – Java (JDK 1.8.0)
 - GUI – JavaFX
